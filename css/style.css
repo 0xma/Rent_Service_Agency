@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: blue; */
+}
+
+.heading .light_text {
+    font-weight: 500;
+}
+
+.links {
+    display: flex;
+}
+
+.contact_us {
+    background-color: white;
+    /* background-image: url(../img/home_animated.svg); */
+    background-image: url(../img/wallpaper_03.jpg);
+    height: 50px;
+    width: 50px;
+}
